@@ -67,6 +67,18 @@
                menubarPath="com.mentor.nucleus.bp.utilities/com.mentor.nucleus.bp.utilities.separator">
          </action>
       </objectContribution>
+      <objectContribution
+            adaptable="true"
+            id="com.mentor.nucleus.bp.utilities.ClassCreator"
+            objectClass="com.mentor.nucleus.bp.core.Package_c">
+         <action
+               class="com.mentor.nucleus.bp.utilities.CreateClassDiagramAction"
+               icon="icons/green-bp.gif"
+               id="com.mentor.nucleus.bp.utilities.classDiagramCreator"
+               label="Create Class Diagram"
+               menubarPath="com.mentor.nucleus.bp.utilities/com.mentor.nucleus.bp.utilities.separator">
+         </action>
+      </objectContribution>
       
    </extension>
    
