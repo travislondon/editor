@@ -69,13 +69,13 @@
       </objectContribution>
       <objectContribution
             adaptable="true"
-            id="com.mentor.nucleus.bp.utilities.ClassCreator"
+            id="com.mentor.nucleus.bp.utilities.ComponentCreator"
             objectClass="com.mentor.nucleus.bp.core.Package_c">
          <action
-               class="com.mentor.nucleus.bp.utilities.CreateClassDiagramAction"
+               class="com.mentor.nucleus.bp.utilities.actions.CreateComponentDiagramAction"
                icon="icons/green-bp.gif"
-               id="com.mentor.nucleus.bp.utilities.classDiagramCreator"
-               label="Create Class Diagram"
+               id="com.mentor.nucleus.bp.utilities.componentDiagramCreator"
+               label="Create Component Diagram"
                menubarPath="com.mentor.nucleus.bp.utilities/com.mentor.nucleus.bp.utilities.separator">
          </action>
       </objectContribution>

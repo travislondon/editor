@@ -1,4 +1,4 @@
-package com.mentor.nucleus.bp.utilities;
+package com.mentor.nucleus.bp.utilities.actions;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
@@ -24,7 +24,7 @@ import com.mentor.nucleus.bp.core.common.TransactionManager;
 import com.mentor.nucleus.bp.core.util.UIUtil;
 import com.mentor.nucleus.bp.ui.canvas.Ooaofgraphics;
 
-public class CreateClassDiagramAction implements IActionDelegate {
+public class CreateComponentDiagramAction implements IActionDelegate {
 
 	private ISelection selection;
 
