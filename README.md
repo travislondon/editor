@@ -20,3 +20,4 @@ the License.
 
 
 If you are interested in building the code, see https://github.com/xtuml/editor/blob/master/doc-editor/HOWTO/HOWTO-build-xtumlEditor.md 
+insert test for issue tracking
